@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @19shubhamgupta
+- 👋 Hi, I’m Shubham 
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me 19guptashubham@gmail.com
