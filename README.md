@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19shubhamgupta&label=Profile%20views&color=0e75b6&style=flat" alt="19shubhamgupta" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Building Scalabe Applications**
 
-- 🌱 I’m currently learning **backend development with Node.js, Express, and MongoDB**
+- 🌱 I’m currently learning ** Microservices, Docker , AWS **
 
-- 💬 Ask me about **React and Java**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **19guptashubham@gmail.com**
 
