@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building Scalabe Applications**
 
-- 🌱 I’m currently learning ** Microservices, Docker , AWS **
+- 🌱 I’m currently learning ** Microservices & DevOps**
 
 - 💬 Ask me about **React.js**
 
